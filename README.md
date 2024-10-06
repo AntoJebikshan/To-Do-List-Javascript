@@ -1,5 +1,6 @@
 # To-Do-List-using-Javascript
-# Created by Anto Jebikshan
+<img src="tdl.png" alt="EJS Project Overview" width="900" height="300">
+
 This project is a simple To-Do List web app. Users can manage their daily tasks by adding, completing, and tracking them in real time. Completed tasks are moved to a separate list, and they are visually updated with a strike-through and color change to indicate completion.
 
 ## Features
