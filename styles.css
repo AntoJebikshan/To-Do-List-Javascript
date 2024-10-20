@@ -45,11 +45,11 @@ input[type="text"] {
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 input[type="text"]:focus {
-    border-color: #1428a0;
+    border-color: #96009e;
 }
 button {
     padding: 10px 20px;
-    background: linear-gradient(to right, #1428a0, #0c1b80);
+    background: linear-gradient(to right, #12a956, #07d30e);
     color: white;
     border: none;
     border-radius: 30px;
